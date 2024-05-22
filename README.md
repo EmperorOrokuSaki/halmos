@@ -13,7 +13,7 @@ Join the [Halmos Telegram Group][chat] for any inquiries or further discussions.
 [chat]: <https://t.me/+4UhzHduai3MzZmUx>
 
 ## Installation
-
+ 
 ```
 pip install halmos
 ```
